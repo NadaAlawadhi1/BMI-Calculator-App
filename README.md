@@ -2,8 +2,8 @@
 A simple and easy-to-use Body Mass Index (BMI) calculator built with Flutter.
 
 📱 Screenshots
-![BMI Screenshot](/BMI%20screens/1.png)
 <img src="/BMI%20screens/1.png" width="300" alt="BMI Screenshot">
+<img src="/BMI%20screens/2.1.png" width="300" alt="BMI Screenshot">
 
 
 🚀 Features
